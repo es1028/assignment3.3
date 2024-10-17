@@ -1,3 +1,4 @@
+// Student name: Ethan Swinton
 import java.util.Random;
 
 public class TwoArrays {
